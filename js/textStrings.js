@@ -1,4 +1,4 @@
-var textStrings_EN = {
+var textStrings = {
 	// Act 1
 	"niceHat": "OOH Krásná čepka",
 	"outtaHere": "Jo, jdi pryč",
