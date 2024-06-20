@@ -97,5 +97,5 @@ var textStrings_EN = {
 	"MarshallMcLuhan": "Marshall McLuhan",
 
 	// (quote0004.png)
-	"misatrributed": "(špatně přisouzeno)"
+	"misatrributed": "(špatně přisouzeno)",
 };
