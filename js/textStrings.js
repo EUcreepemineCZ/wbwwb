@@ -105,7 +105,7 @@ var textStrings_EN = {
 };
 
 // Umlaut codes: Ä = \xC4, Ö = \xD6, Ü = \xDC, ä = \xE4, ö = \xF6, ü = \xFC, ß = \x
-var textStrings_CZ = {
+var textStrings = {
 	// Act 1
 	"niceHat": "OOH Krásná čepka",
 	"outtaHere": "Jo, jdi pryč",
